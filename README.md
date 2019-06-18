@@ -83,11 +83,6 @@ There are 2 ways to start a Git repository. We just did one above! The second is
 - [ ] Copy the url
 - [ ] In the command line, in the same folder where gitPractice1 lives (but not inside gitPractice1) type `git clone` then paste the link behind it and hit enter
 - [ ] You have just cloned a Github repo! 
- 
-
-
- 
-
 
 **If you already know the stuff above, and want to work on workflow with a partner...**
 
