@@ -56,7 +56,7 @@ The following will be done entirely via the command line, later we will add what
 - [ ] In the top right corner, click the + icon and select 'New repository'
 - [ ] In the 'Repository name' field, enter 'gitPractice1' (Your 'remote' repository on Github does not have to have the same name as your 'local' repository but it will make your life easier.)
 - [ ] Leave everything else the way it is and click the green 'Create repository' button 
-- [ ] On the next page, copy the commands under the section where it says "...or push an exisiting repository from the command line"
+- [ ] On the next page, copy the first command under the section where it says "...or push an exisiting repository from the command line". Do not copy 'git push -u origin master' 
 
 
 **Add your newly created remote to your local repo**
